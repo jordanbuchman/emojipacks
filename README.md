@@ -125,6 +125,7 @@ emojis:
 - [octicons](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/octicons.yaml)
 - [pokemon](https://raw.githubusercontent.com/jaylynch/pokemoji/master/pokemon-by-name.yaml)
 - [devicon](https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/devicon.yaml) ([Devicon](http://devicon.fr/))
+- [Steamoji](https://github.com/jordanbuchman/steamoji/blob/master/README.md) (all Steam game emoticons)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
